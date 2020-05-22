@@ -1,1 +1,5 @@
-# cs101
+lab50:
+  window:
+    - editor
+    - readme
+    - terminal

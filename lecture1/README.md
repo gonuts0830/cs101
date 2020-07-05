@@ -58,3 +58,5 @@ python 运算符
 2. 为什么python结果显示12.0 而不是12呢？
 
 {% endspoiler %}
+
+link: https://lab.cs50.io/gonuts0830/cs101/pythonSessionV202007/lecture1/
